@@ -1,6 +1,17 @@
 # Lexicon Prime
 Welcome to LexiconPrime, a transformative repository accelerating open-source research through comprehensive word embeddings for popular datasets. We believe that quality word embeddings are essential for advancing natural language processing tasks.
 
+## Datasets Available
+
+
+| Dataset | Description | Link |
+|---------|-------------|------|
+| 20News | Collection of newsgroup documents classified into different topics | [20News](http://qwone.com/~jason/20Newsgroups/) |
+| BBC News Dataset | News articles categorized into different topics by BBC | [BBC News Dataset](http://mlg.ucd.ie/datasets/bbc.html) |
+| Kpris Dataset | Large Korean text dataset covering various domains | [Kpris Dataset](https://ithub.korean.re.kr/data/dataList.do) |
+
+
+
 
 ## Datasets We Plan To Work On
 
@@ -16,3 +27,5 @@ Welcome to LexiconPrime, a transformative repository accelerating open-source re
 | Reddit | Datasets derived from the Reddit social media platform | [Reddit Datasets](https://www.reddit.com/r/datasets/) |
 | Stack Exchange | Network of question-and-answer websites | [Stack Exchange Data Dump](https://archive.org/details/stackexchange) |
 | Yelp Dataset | Dataset with reviews and ratings for businesses | [Yelp Dataset](https://www.yelp.com/dataset) |
+
+
