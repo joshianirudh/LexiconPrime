@@ -1,5 +1,5 @@
 # Lexicon Prime
-Welcome to LexiconPrime, a project where we aim to embed the Internet!
+Welcome to LexiconPrime, a project where we aim to provide free high quality embeddings!
 
 ## Datasets Available
 
